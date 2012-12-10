@@ -1,3 +1,10 @@
+* 1.12.0 (2012-XX-XX)
+
+ * added the ability to set default values for macro arguments
+ * added support for named arguments for filters, tests, and functions
+ * moved filters/functions/tests syntax errors to the parser
+ * added support for extended ternary operator syntaxes
+
 * 1.11.1 (2012-11-11)
 
  * fixed debug info line numbering (was off by 2)
